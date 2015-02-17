@@ -17,7 +17,7 @@ public class MathLibrary {
 		} else if (number >= 0) {
 			returnValue = number;
 		} else {
-			returnValue = 0 - number;
+			returnValue = 0 - number; //
 		}
 		return returnValue;
 	}
